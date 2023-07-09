@@ -1,0 +1,6 @@
+.DS_Store
+.venv
+dataset
+*.db
+.pytest_cache
+**/__pycache__/
